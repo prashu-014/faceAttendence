@@ -5,4 +5,18 @@ Gate Attendance: Tracks individuals entering or exiting through gates using real
 Classroom Attendance: Monitors and records student attendance in classrooms automatically.
 Alerts: Generates real-time notifications based on predefined rules for unauthorized access or prolonged absences.
 
-# Technologies used 
+# Technology Used
+
+<ul>
+ <li>React.js</li>
+ <li>Node.js</li>
+ <li>Express.js</li>
+ <li>MongoDB</li>
+ <li>Face API.js</li>
+</ul>
+
+#Features
+<ul>
+ <li>Face Recognition</li>
+ <li>Accurate Attendence</li>
+</ul>
