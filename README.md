@@ -20,3 +20,10 @@ Alerts: Generates real-time notifications based on predefined rules for unauthor
  <li>Face Recognition</li>
  <li>Accurate Attendence</li>
 </ul>
+
+
+
+![dashboard](https://github.com/user-attachments/assets/83666303-ede7-48d6-8c89-c021f1a86b91)
+![gateAttndence](https://github.com/user-attachments/assets/612c8ec3-300e-4cd0-a321-a01f3004db1d)
+![classroom](https://github.com/user-attachments/assets/454e1317-5571-42c6-84f2-d1de7ffc9077)
+![alerts](https://github.com/user-attachments/assets/ad56aaf6-e611-4969-a760-ca2f6e3f8112)
